@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d79ad3e765eb29a4e21375ff1a75485",
+    "revision": "cacba1a3369a56651ef340a6b53bdd0e",
     "url": "/index.html"
   },
   {
-    "revision": "b4fadb93dac879758052",
+    "revision": "7ceeb106d2aad6d16221",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "f7e7c05bb00faac0bf1e",
+    "revision": "3303b36cb2b7dab12ea6",
     "url": "/static/css/main.84d6b3bb.chunk.css"
   },
   {
-    "revision": "f1aedb2eb4c91c193b06",
-    "url": "/static/js/2.9c8712e7.chunk.js"
+    "revision": "475a2dd3521e7b52e2c6",
+    "url": "/static/js/2.3bcd8e2c.chunk.js"
   },
   {
     "revision": "9fd8ac69f8779f68b807eb06f9423c10",
-    "url": "/static/js/2.9c8712e7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3bcd8e2c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4fadb93dac879758052",
-    "url": "/static/js/3.8518f0f0.chunk.js"
+    "revision": "7ceeb106d2aad6d16221",
+    "url": "/static/js/3.fcae584e.chunk.js"
   },
   {
-    "revision": "f7e7c05bb00faac0bf1e",
-    "url": "/static/js/main.f5e6e3f9.chunk.js"
+    "revision": "3303b36cb2b7dab12ea6",
+    "url": "/static/js/main.d6cc03e7.chunk.js"
   },
   {
-    "revision": "6226191691831a3a745c",
-    "url": "/static/js/runtime-main.9b833913.js"
+    "revision": "5178e047a3d2cecd796c",
+    "url": "/static/js/runtime-main.19907db6.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -316,6 +316,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mysql.01c4d182.png"
   },
   {
+    "revision": "1da3e7e1c2ab1c6b8f0ec653d70e3c02",
+    "url": "/static/media/nextjs.1da3e7e1.png"
+  },
+  {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
     "url": "/static/media/nextuLogo.829ad0a1.webp"
   },
@@ -354,6 +358,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f7964c6bf45e77547f1e5aae1e1dede0",
     "url": "/static/media/projects_image.f7964c6b.svg"
+  },
+  {
+    "revision": "25d45f8dbfaa2a298141a65f3418fb50",
+    "url": "/static/media/psu.25d45f8d.png"
   },
   {
     "revision": "1a60e8a9e2c2d6a539c7692f27fe6790",
